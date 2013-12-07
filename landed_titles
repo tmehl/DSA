@@ -1,0 +1,21 @@
+e_mittelreich = {
+      color = { 255 215   0 }
+      capital = xxx # Gareth
+          
+      k_garethien = {
+            color = { 255 165   0 }
+            capital = xxx # Gareth
+      }
+      
+      k_nordmarken = {
+            color = { 255 127  80 }
+            capital = xxx # Elevina
+      }
+      
+      k_weiden = {
+            color = { 34 139  34 }
+            capital = xxx # Trallop
+      }
+      
+      k_tobrien = {
+            color = {  }
