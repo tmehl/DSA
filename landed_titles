@@ -5,6 +5,25 @@ e_mittelreich = {
       k_garethien = {
             color = { 255 165   0 }
             capital = xxx # Gareth
+            
+            d_gareth = {
+                  color = { }
+                  capital = xxx # Gareth
+                  
+                  c_gareth = {
+                        color = { }
+                        
+                        b_gareth = {
+                        }
+                        b_alteresidenz = {
+                        }
+                        b_neueresidenz = {
+                        }
+                        b_stadtdeslichts = {
+                        }
+
+                  }
+            }
       }
       
       k_nordmarken = {
@@ -19,3 +38,6 @@ e_mittelreich = {
       
       k_tobrien = {
             color = {  }
+      }
+      
+      }
